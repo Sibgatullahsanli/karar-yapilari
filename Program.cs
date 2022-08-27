@@ -2,6 +2,7 @@
 {
     private static void Main(string[] args)
     {
+        Console.WriteLine("Hoş geldiniz");
         int month =DateTime.Now.Month;
 
         //Expression --> kontrol etmek istediğimiz koşulu yazıyoruz.
